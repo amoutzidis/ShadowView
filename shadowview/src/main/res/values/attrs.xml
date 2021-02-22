@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="shadowViewStyle" format="reference"></attr>
+    <declare-styleable name="ShadowView">
+        <attr name="startFrom" format="enum">
+            <enum name="Top" value="0"/>
+            <enum name="Right" value="1"/>
+            <enum name="Bottom" value="2"/>
+            <enum name="Left" value="3"/>
+            <enum name="Start" value="4"/>
+            <enum name="End" value="5"/>
+        </attr>
+        <attr name="startColor" format="color"/>
+        <attr name="centerColor" format="color"/>
+        <attr name="endColor" format="color"/>
+    </declare-styleable>
+</resources>

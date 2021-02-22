@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShadowViewStyle" parent="android:Widget">
+        <item name="startFrom">Top</item>
+        <item name="startColor">#66A0A0A0</item>
+        <item name="endColor">#00FFFFFF</item>
+    </style>
+</resources>

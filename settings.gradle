@@ -1,0 +1,3 @@
+include ':shadowview'
+include ':app'
+rootProject.name = "ShadowView"
